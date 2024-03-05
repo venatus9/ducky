@@ -1,4 +1,6 @@
 REM Rick Roll
+REM created by venatus9
+REM simple script that opens the default browser to Rick Astley's "Never Gonna Give You Up" and fullscreens (causing the video to play in the process)
 DELAY 100
 GUI r
 DELAY 100
