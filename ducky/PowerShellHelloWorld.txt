@@ -1,4 +1,6 @@
-REM Make powershell say hello world
+REM PowerShell Hello World
+REM created by venatus9
+REM a simple PoC script that opens powershell and echos 'Hello, World!'
 DELAY 100
 GUI r
 DELAY 100
