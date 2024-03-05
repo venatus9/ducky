@@ -1,0 +1,9 @@
+REM Make powershell say hello world
+DELAY 100
+GUI r
+DELAY 100
+STRING powershell
+ENTER
+DELAY 500
+STRING Write-Host 'Hello, World!'
+ENTER

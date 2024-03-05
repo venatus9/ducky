@@ -1,0 +1,8 @@
+REM Rick Roll
+DELAY 100
+GUI r
+DELAY 100
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 10000
+STRING f
